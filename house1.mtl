@@ -1,0 +1,94 @@
+# Blender 3.3.1 MTL File: 'house1.blend'
+# www.blender.org
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ingar/Downloads/orange-brown-cement-wall-texture-background-wallpaper-abstract-grunge-pattern-surface-retro-backdrop-free-photo.jpg
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.250158 0.250158 0.250158
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.020
+Ns 495.104126
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/ingar/Downloads/5B_8849_TT__5D_01.jpg
+
+newmtl cements.020
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.181164 0.208637 0.212231
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl koks.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/wood.png
+map_Bump -bm 1.000000 C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/normal.png
+
+newmtl siena.017
+Ns 293.566895
+Ka 1.000000 1.000000 1.000000
+Ks 0.247089 0.247089 0.247089
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/Untitled.001.png
+map_Bump -bm 1.900000 C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/sienatext.png
