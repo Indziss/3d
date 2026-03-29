@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd C:/Users/ingar/Downloads/orange-brown-cement-wall-texture-background-wallpaper-abstract-grunge-pattern-surface-retro-backdrop-free-photo.jpg
+map_Kd orange-brown-cement-wall-texture-background-wallpaper-abstract-grunge-pattern-surface-retro-backdrop-free-photo.jpg
 
 newmtl Material.017
 Ns 250.000000
@@ -59,7 +59,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:/Users/ingar/Downloads/5B_8849_TT__5D_01.jpg
+map_Kd 5B_8849_TT__5D_01.jpg
 
 newmtl cements.020
 Ns 0.000000
@@ -79,8 +79,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/wood.png
-map_Bump -bm 1.000000 C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/normal.png
+map_Kd wood.png
+map_Bump -bm 1.000000 normal.png
 
 newmtl siena.017
 Ns 293.566895
@@ -90,5 +90,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/Untitled.001.png
-map_Bump -bm 1.900000 C:/Users/ingar/OneDrive/Desktop/BK_BLENDER/sienatext.png
+map_Kd Untitled.001.png
+map_Bump -bm 1.900000 sienatext.png
